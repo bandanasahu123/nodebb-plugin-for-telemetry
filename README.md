@@ -1,1 +1,1 @@
-# nodebb-plugin-verifyplugin
+# nodebb-plugin-verify-user-plugin
