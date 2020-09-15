@@ -1,1 +1,1 @@
-# nodebb-plugin-verify-user-plugin
+# nodebb-plugin-telemetry
